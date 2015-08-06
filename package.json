@@ -1,0 +1,29 @@
+{
+  "name": "generator-gulp-angular-breeze",
+  "version": "0.0.0",
+  "description": "Yeoman generator for AngularJS with GulpJS, BreezeJS and NodeJS",
+  "licence": "MIT",
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "juhwon/generator-gulp-angular-breeze"
+  },
+  "author": {
+    "name": "JuHwon",
+    "url": "https://github.com/juhwon"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "breeze",
+    "gulp",
+    "node",
+    "koa"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.7"
+  }
+}
