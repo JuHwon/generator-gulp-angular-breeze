@@ -24,6 +24,7 @@
     "koa"
   ],
   "dependencies": {
-    "yeoman-generator": "^0.17.7"
+    "yeoman-generator": "^0.17.7",
+    "yosay": "^1.0.5"
   }
 }
